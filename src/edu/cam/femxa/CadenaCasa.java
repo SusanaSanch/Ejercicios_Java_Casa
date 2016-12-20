@@ -6,6 +6,7 @@ public class CadenaCasa
 	
 	public static void main(String[] args)
 	{
+		
 		PalabraCadena palabraCadena = null;
 		
 			palabraCadena = new PalabraCadena();

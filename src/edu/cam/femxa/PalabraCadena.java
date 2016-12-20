@@ -13,6 +13,7 @@ public class PalabraCadena {
 	
 	public void mostrarLetrasFor (String palabra)
 	{
+		
 		int longi = palabra.length();
 		char letra = 0;
 		
